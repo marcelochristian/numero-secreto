@@ -1,7 +1,7 @@
 let armazenaChute = [];
 console.log(armazenaChute);
 let numeroSecreto = gerarNumeroAleatorio(); //parseInt(Math.random() * 10 + 1);
-let tentativas = 10;
+let tentativas = 100;
 console.log(numeroSecreto);
 exibirMensagemInicial();
 // let titulo = document.querySelector("h1");
